@@ -1,0 +1,34 @@
+# BeatBouncer AI
+
+## The Problem
+
+With the recent acceleration in AI-driven musical creation, in which generation has been conducted to replicate styles of particular artists, dead or alive, one thing is clear:
+
+*Human-made musical artistry is at risk*
+
+This comes with a significant series of potential issues:
+- Artist revenue drops even further than it already has with the advent of streaming sites like spotify.
+- Artist reach drops.
+- Access to the already-saturated industry of musicianship becomes even harder to access.
+- Potential new creators and innovators are deterred from the industry.
+- Life-long industry workers careers are at risk - this expands beyond just the artists themselves.
+- Algorithm-driven creations, based on what is likely to be most popular stunts innovation and creativity... in an industry that solely relies on its innovation and creativity.
+
+## Purpose
+
+The purpose of BeatBouncer AI is to protect human-made musical works and musicians. It does this by determining two things:
+
+1. If the musical work likely created by another AI.
+2. If the musical work closely resembles the work of a human musical artists.
+
+It will be metric-driven, using contiuous learning to become more accurate over time, to become useful for potential legal safeguarding of artists over the entire industry.
+
+## How it Works
+
+### The Data
+
+### Algorithm
+
+### Continuous Learning
+
+## How to Use
